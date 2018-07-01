@@ -15,7 +15,7 @@ public class Cell {
 		Scanner rdIn;
 		try
 		{
-			rdIn = new Scanner(new File("UIL Programs/src/com/github/district22012/cell.dat"));
+			rdIn = new Scanner(new File("com/github/district22012/cell.dat"));
 			int planA = 0;
 			int planB = 0;
 			while ( rdIn.hasNext() )
