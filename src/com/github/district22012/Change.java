@@ -8,8 +8,8 @@ package com.github.district22012;
  * using pennies, nickels, dimes, quarters, and half-dollars.
  */
 import java.io.File;
-import java.util.Scanner;
 import java.io.IOException;
+import java.util.Scanner;
 public class Change {
 
 	private static int[] coins  = {50, 25, 10, 5, 1};

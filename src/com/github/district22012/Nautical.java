@@ -8,9 +8,9 @@ package com.github.district22012;
  * This program will read in a list of distances a ship has traveled in nautical miles,
  * and convert them to English miles. (1 nautical mile = 1.15 English miles)
  */
+import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
-import java.io.File;
 public class Nautical
 {
     public static void main(String[] args)

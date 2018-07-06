@@ -8,8 +8,8 @@ package com.github.district22012;
  * Implements the solution to Problem 6: Hash Codes of the UIL District 2 2012 Programming Competition.
  */
 import java.io.File;
-import java.util.Scanner;
 import java.io.IOException;
+import java.util.Scanner;
 public class HashCodes
 {
     public static void main(String[] args)

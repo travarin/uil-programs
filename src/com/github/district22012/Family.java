@@ -7,8 +7,8 @@ package com.github.district22012;
  * This program will read in a picture in portrait layout, and rotate it 90 degrees to landscape.
  */
 import java.io.File;
-import java.util.Scanner;
 import java.io.IOException;
+import java.util.Scanner;
 public class Family {
 
 	public static void main(String[] args) {

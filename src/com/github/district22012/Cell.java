@@ -8,8 +8,8 @@ package com.github.district22012;
  * and calculate how many minutes you will be charged for under two different plans. 
  */
 import java.io.File;
-import java.util.Scanner;
 import java.io.IOException;
+import java.util.Scanner;
 public class Cell {
 
 	public static void main(String[] args) {

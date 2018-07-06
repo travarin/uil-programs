@@ -9,8 +9,8 @@ package com.github.district22012;
  * every character in each string appears in order in the third string, but not necessarily consecutively.
  */
 import java.io.File;
-import java.util.Scanner;
 import java.io.IOException;
+import java.util.Scanner;
 public class Interlocked
 {
     public static void main(String[] args)
