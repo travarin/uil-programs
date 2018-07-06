@@ -5,8 +5,9 @@ package com.github.district12012;
  * 8/21/2017
  * This program will print out the sub-products and final product from a multiplication problem.
  */
-import java.util.*;
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
 import static java.lang.System.*;
 public class Multiplication {
 

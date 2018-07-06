@@ -5,8 +5,14 @@ package com.github.district12012;
  * 8/23/2017
  * This program will sort a list of words in AlphaFun order. 
  */
-import java.util.*;
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.TreeMap;
+import java.util.Collections;
+import java.util.Set;
+import java.util.Iterator;
 import static java.lang.System.*;
 public class AlphaFun {
 

@@ -5,8 +5,9 @@ package com.github.district12012;
  * 8/12/2017
  * This program will find the smallest non-increasing multiple of a number. 
  */
-import java.util.*;
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
 import static java.lang.System.*;
 public class Decreasing {
 

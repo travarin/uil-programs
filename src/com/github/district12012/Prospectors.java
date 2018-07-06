@@ -5,8 +5,11 @@ package com.github.district12012;
  * 9/3/2017
  * This program will print out how many acres are available in each unfilled lot. 
  */
-import java.util.*;
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Collections;
 import static java.lang.System.*;
 public class Prospectors {
 

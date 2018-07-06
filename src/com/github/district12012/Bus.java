@@ -5,8 +5,9 @@ package com.github.district12012;
  * 8/23/2017
  * This program will determine which sections of the bus route have the fewest passengers on board. 
  */
-import java.util.*;
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
 import static java.lang.System.*;
 public class Bus {
 

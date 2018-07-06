@@ -5,8 +5,9 @@ package com.github.district12012;
  * 8/28/2017
  * This program will cast out the nines in an integer and report the degree of that cast. 
  */
-import java.util.*;
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
 import static java.lang.System.*;
 public class Casting {
 

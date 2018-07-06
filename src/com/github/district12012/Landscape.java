@@ -5,8 +5,9 @@ package com.github.district12012;
  * 8/21/2017
  * This program will rotate pictures from landscape to portrait mode.
  */
-import java.util.*;
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
 import static java.lang.System.*;
 public class Landscape {
 

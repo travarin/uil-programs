@@ -6,8 +6,9 @@ package com.github.district12012;
  * This program will take a person's Facebook name 
  * and shorten it into their Words with Friends name.
  */
-import java.util.*;
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
 import static java.lang.System.*;
 public class Words {
 
