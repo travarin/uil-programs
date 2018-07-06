@@ -6,8 +6,9 @@ package com.github.district22012;
  * District 2 2012 Problem 1
  * This program will convert a binary clock to ordinary digital clock form. 
  */
-import java.io.*;
-import java.util.*;
+import java.io.File;
+import java.util.Scanner;
+import java.io.IOException;
 public class Binary {
 
 	public static void main(String[] args) {

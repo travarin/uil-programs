@@ -8,8 +8,9 @@ package com.github.district22012;
  * This program will determine if two strings are both interlocked in the third string:
  * every character in each string appears in order in the third string, but not necessarily consecutively.
  */
-import java.io.*;
-import java.util.*;
+import java.io.File;
+import java.util.Scanner;
+import java.io.IOException;
 public class Interlocked
 {
     public static void main(String[] args)

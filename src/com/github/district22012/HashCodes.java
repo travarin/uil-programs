@@ -7,8 +7,9 @@ package com.github.district22012;
  * This program will determine the number of possiblle collisions given a hashcode and the number of letters in each word.
  * Implements the solution to Problem 6: Hash Codes of the UIL District 2 2012 Programming Competition.
  */
-import java.io.*;
-import java.util.*;
+import java.io.File;
+import java.util.Scanner;
+import java.io.IOException;
 public class HashCodes
 {
     public static void main(String[] args)

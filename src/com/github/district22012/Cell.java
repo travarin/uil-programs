@@ -7,8 +7,9 @@ package com.github.district22012;
  * This program will read in the number of minutes and seconds from phone calls over the past month,
  * and calculate how many minutes you will be charged for under two different plans. 
  */
-import java.util.*;
-import java.io.*;
+import java.io.File;
+import java.util.Scanner;
+import java.io.IOException;
 public class Cell {
 
 	public static void main(String[] args) {

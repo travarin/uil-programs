@@ -6,8 +6,9 @@ package com.github.district22012;
  * District 2 2012 Problem 5
  * This program will read in a picture in portrait layout, and rotate it 90 degrees to landscape.
  */
-import java.util.*;
-import java.io.*;
+import java.io.File;
+import java.util.Scanner;
+import java.io.IOException;
 public class Family {
 
 	public static void main(String[] args) {

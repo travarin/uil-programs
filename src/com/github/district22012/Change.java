@@ -7,8 +7,9 @@ package com.github.district22012;
  * This program will determine how many different ways an amount of money can be paid 
  * using pennies, nickels, dimes, quarters, and half-dollars.
  */
-import java.util.*;
-import java.io.*;
+import java.io.File;
+import java.util.Scanner;
+import java.io.IOException;
 public class Change {
 
 	private static int[] coins  = {50, 25, 10, 5, 1};
